@@ -67,7 +67,7 @@ email: "zhigang0312@gmail.com"
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Researchers
-- Visitors
+- Students
 ---
 
 Zhigang Cao is a Ph.D. candidate of Cartography and Geogeographical Information System at Nanjing Institute of Geography and Limnology, Chinese Academy of Sciences. His research interests include machine learning, satellite processing remote sensing of lake environments using optical satellite instruments such as MODIS, VIIRS, Landsat and Sentinel-2/3. 
