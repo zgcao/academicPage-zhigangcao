@@ -15,9 +15,9 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "r-project"
+  icon = "python"
   icon_pack = "fab"
-  name = "R"
+  name = "Python"
   description = "90%"
   
 [[feature]]
@@ -27,9 +27,9 @@ subtitle = ""
   description = "100%"  
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "linux"
   icon_pack = "fas"
-  name = "Photography"
+  name = "Linux"
   description = "10%"
 
 +++
