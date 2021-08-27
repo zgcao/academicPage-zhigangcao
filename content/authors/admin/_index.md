@@ -10,8 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Ph.D candidate in Cartography and Geogeographical Information System
-
+role: Research Associate in NIGLAS, CAS
 # Organizations/Affiliations
 organizations:
 - name: University of Chinese Academy of Sciences
@@ -27,9 +26,9 @@ interests:
 
 education:
   courses:
-  - course: Ph.D Candidate in Cartography and Geogeographical Information System
+  - course: Ph.D in Cartography and Geogeographical Information System
     institution: University of Chinese Academy of Sciences
-    year: 2012
+    year: 2020
   - course: M.S. in Cartography and Geogeographical Information System
     institution: University of Chinese Academy of Sciences
     year: 2017
@@ -72,6 +71,6 @@ user_groups:
 - Students
 ---
 
-Zhigang Cao is a Ph.D. candidate of Cartography and Geogeographical Information System at Nanjing Institute of Geography and Limnology, Chinese Academy of Sciences. His research interests include machine learning, satellite processing remote sensing of lake environments using optical satellite instruments such as MODIS, VIIRS, Landsat and Sentinel-2/3. 
+Zhigang Cao is the Research Associate at Nanjing Institute of Geography and Limnology, Chinese Academy of Sciences. His research interests include machine learning, satellite processing remote sensing of lake environments using optical satellite instruments such as MODIS, VIIRS, Landsat and Sentinel-2/3. 
 
 He has published nine scientific peer-reviewed papers in Remote Sensing of Environments, ISPRS Photography and Remote Sensing and International Journal of Applied Earth Observation and Geoinformation as the first author. He has been pursuring the further studies in optical remote sensing coastal and inland water.
